@@ -1,3 +1,9 @@
+# Hidden folder where staging area and commmits live
+
+.git/
+
+
+
 # a cool fish shortcut to list files - fish only
 ll
 ls -l
