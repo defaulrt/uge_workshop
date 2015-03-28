@@ -1,0 +1,204 @@
+# a cool fish shortcut to list files - fish only
+ll
+ls -l
+less moving_around.txt
+ls
+# creating history file
+history > moving_around.txt
+clear
+
+# change directory
+cd
+man less
+history | less
+/git
+history
+history h
+# list files
+ls .
+pwd
+ls /
+ls ~
+! !
+!!
+cd ../..
+cd ..
+cd GoogleSoftwareUpdate/
+ls -a
+cd Google
+cd Calendar\ Sync\ Changes/
+cd Calendars/
+cd Services/
+cd Library
+cd
+cd Applications/
+cd Deskt
+cd Downloads/
+cd Do
+cd Pictures
+ls
+cd ~
+cd Library/Application\ Support/
+cd /Users/edsmith/
+cd /Users/e
+man ls
+cd dev
+#ls with flags
+ls -lS
+ls -t
+ls -aSt
+ls -aS
+ls -tr
+ls -t
+ls -r
+ls -rtla
+ls -rt
+ls -rlt
+ls -r
+ls -lt
+cler
+ls -l -t
+cd /
+nano test.php
+ls -a
+c
+echo $PATH
+which uname
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+brew doctor
+brew update
+clear
+echo $SHELL
+help ls
+git --version
+which git
+brew
+ls -G
+uname
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'edsmith6301@gmail.com'
+git config --global user.name 'Edward Smith'
+BREW install git
+ECHO $PATH
+subl /etc/paths
+echo $p
+echo $EDITOR
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+fish_update_completions
+brew info
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+git
+ls -l ~
+sudo discoveryutil mdnsflushcache
+sudo killall httpd
+sudo /Applications/AMPPS/apache/bin/apachectl start
+ll
+history > moving_around.txt
+ls -l
+less moving_around.txt
+ls
+clear
+cd
+man less
+history | less
+/git
+history
+history h
+ls .
+pwd
+ls /
+ls ~
+! !
+!!
+cd ../..
+cd ..
+cd GoogleSoftwareUpdate/
+ls -a
+cd Google
+cd Calendar\ Sync\ Changes/
+cd Calendars/
+cd Services/
+cd Library
+cd
+cd Applications/
+cd Deskt
+cd Downloads/
+cd Do
+cd Pictures
+ls
+cd ~
+cd Library/Application\ Support/
+cd /Users/edsmith/
+cd /Users/e
+man ls
+cd dev
+ls -lS
+ls -t
+ls -aSt
+ls -aS
+ls -tr
+ls -t
+ls -r
+ls -rtla
+ls -rt
+ls -rlt
+ls -r
+ls -lt
+cler
+ls -l -t
+cd /
+nano test.php
+ls -a
+c
+#variables
+echo $PATH
+which uname
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+brew doctor
+brew update
+clear
+echo $SHELL
+help ls
+git --version
+which git
+brew
+ls -G
+uname
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'edsmith6301@gmail.com'
+git config --global user.name 'Edward Smith'
+BREW install git
+ECHO $PATH
+subl /etc/paths
+echo $p
+echo $EDITOR
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+fish_update_completions
+brew info
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+git
+ls -l ~
+#killing processes
+sudo discoveryutil mdnsflushcache
+sudo killall httpd
+sudo /Applications/AMPPS/apache/bin/apachectl start
